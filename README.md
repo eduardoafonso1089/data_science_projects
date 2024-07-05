@@ -43,8 +43,8 @@ The repository is organized as follows:
 |   |-- sumarizandoDados.ipynb
 |   |-- uso_groupby.ipynb
 |-- /TensorFlow
-|   |-- project1.ipynb
-|   |-- project2.ipynb
+|   |-- Project1_ Celsius and Fahrenheit.ipynb
+|   |-- Project2_ Forecasting of revenue (ice creams).ipynb
 |-- .gitignore
 |-- LICENSE
 |-- README.md
@@ -113,8 +113,8 @@ Open the desired `.ipynb` file in Jupyter Notebook to explore and execute the co
 - **uso_groupby.ipynb**: Using groupby function.
 
 ### TensorFlow
-- **project1.ipynb**: Description of TensorFlow project 1.
-- **project2.ipynb**: Description of TensorFlow project 2.
+- **Project1_ Celsius and Fahrenheit.ipynb**: Converting Celsius to Fahrenheit.
+- **Project2_ Forecasting of revenue (ice creams).ipynb**: Forecasting revenues from an ice Cream store.
 
 ## Contribution
 
@@ -128,4 +128,4 @@ Contributions are welcome! Feel free to open issues and submit pull requests. To
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlicense License - see the [LICENSE](LICENSE) file for details.
