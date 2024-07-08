@@ -24,24 +24,24 @@ The repository is organized as follows:
 ```
 /python_projects
 |-- /Pandas
-|   |-- abrindoArq.ipynb
 |   |-- boxplot.ipynb
-|   |-- combinandoDataframes.ipynb
-|   |-- dataFrame.ipynb
-|   |-- ex_MultIndex.ipynb
-|   |-- indexação.ipynb
+|   |-- cleaning_duplicate.ipynb
+|   |-- combining_dataframes.ipynb
+|   |-- dataframe.ipynb
+|   |-- groupby.ipynb
+|   |-- index.ipynb
 |   |-- limpeza_duplicata.ipynb
 |   |-- melt.ipynb
-|   |-- mergeDataframe.ipynb
-|   |-- missingValues.ipynb
-|   |-- novaColuna.ipynb
-|   |-- ordenando_dados.ipynb
-|   |-- plotGraf.ipynb
-|   |-- reshaping_dados.ipynb
-|   |-- selecaoDados.ipynb
-|   |-- stack_unstack.ipynb
-|   |-- sumarizandoDados.ipynb
-|   |-- uso_groupby.ipynb
+|   |-- merge_dataframe.ipynb
+|   |-- missing_values.ipynb
+|   |-- new_column.ipynb
+|   |-- open_file.ipynb
+|   |-- plot_graf.ipynb
+|   |-- reshaping_data.ipynb
+|   |-- selection_data.ipynb
+|   |-- sort_data.ipynb
+|   |-- sort_data.ipynb
+|   |-- summarying_data.ipynb
 |-- /TensorFlow
 |   |-- Project1_ Celsius and Fahrenheit.ipynb
 |   |-- Project2_ Forecasting of revenue (ice creams).ipynb
@@ -93,24 +93,25 @@ Open the desired `.ipynb` file in Jupyter Notebook to explore and execute the co
 ## Projects
 
 ### Pandas
-- **abrindoArq.ipynb**: Opening files.
 - **boxplot.ipynb**: Creating box plots.
-- **combinandoDataframes.ipynb**: Combining dataframes.
-- **dataFrame.ipynb**: DataFrame basics.
-- **ex_MultIndex.ipynb**: Working with multi-index.
-- **indexação.ipynb**: Indexing data.
-- **limpeza_duplicata.ipynb**: Cleaning duplicates.
+- **cleaning_duplicate.ipynb**: Cleaning duplicates.
+- **combining_dataframes.ipynb**: Combining dataframes.
+- **dataframe.ipynb**: DataFrame basics.
+- **groupby.ipynb**: Using groupby function.
+- **index.ipynb**: Indexing data.
 - **melt.ipynb**: Using melt function.
-- **mergeDataframe.ipynb**: Merging dataframes.
-- **missingValues.ipynb**: Handling missing values.
-- **novaColuna.ipynb**: Adding new columns.
-- **ordenando_dados.ipynb**: Sorting data.
-- **plotGraf.ipynb**: Plotting graphs.
-- **reshaping_dados.ipynb**: Reshaping data.
-- **selecaoDados.ipynb**: Selecting data.
+- **merge_dataframe.ipynb**: Merging dataframes.
+- **missing_values.ipynb**: Handling missing values.
+- **multi_index.ipynb**: Working with multi-index.
+- **new_column.ipynb**: Adding new columns.
+- **open_file.ipynb**: Opening files.
+- **plot_graf.ipynb**: Plotting graphs.
+- **reshaping_data.ipynb**: Reshaping data.
+- **selection_data.ipynb**: Selecting data.
+- **sort_data.ipynb**: Sorting data.
 - **stack_unstack.ipynb**: Stacking and unstacking data.
-- **sumarizandoDados.ipynb**: Summarizing data.
-- **uso_groupby.ipynb**: Using groupby function.
+- **summarying_data.ipynb**: Summarizing data.
+
 
 ### TensorFlow
 - **Project1_ Celsius and Fahrenheit.ipynb**: Converting Celsius to Fahrenheit.
