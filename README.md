@@ -45,6 +45,21 @@ The repository is organized as follows:
 |-- /TensorFlow
 |   |-- Project1_ Celsius and Fahrenheit.ipynb
 |   |-- Project2_ Forecasting of revenue (ice creams).ipynb
+|   |-- Project3_Prediction of rent bike.ipynb
+|   |-- Project4_ House Sales Prediction.ipynb
+|   |-- Project5_ Sentiment Analysis.ipynb
+|   |-- Project6_ Diabetes Classification.ipynb
+|   |-- Project7_ CNN classifier.ipynb
+|   |-- Project8_Traffic sign classification.ipynb
+|   |-- Project9__Object_Classification.ipynb
+|   |-- Project10_ Transfer learning classifier cat and dogs.ipynb
+|   |-- Project11__Transfer_Learning_to_object_identification.ipynb
+|   |-- Project12_Remove_noise_from_images(autoencoders).ipynb
+|   |-- Project13_ Compress Images.ipynb
+|   |-- Project14_ .ipynb
+|   |-- Project15_ .ipynb
+|   |-- Project16_ .ipynb
+
 |-- .gitignore
 |-- LICENSE
 |-- README.md
