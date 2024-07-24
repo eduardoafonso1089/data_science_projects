@@ -56,9 +56,9 @@ The repository is organized as follows:
 |   |-- Project11__Transfer_Learning_to_object_identification.ipynb
 |   |-- Project12_Remove_noise_from_images(autoencoders).ipynb
 |   |-- Project13_ Compress Images.ipynb
-|   |-- Project14_ .ipynb
-|   |-- Project15_ .ipynb
-|   |-- Project16_ .ipynb
+|   |-- Project14_ Deep_Dream.ipynb
+|   |-- Project15__Image_Generation_(GAN).ipynb
+|   |-- Project16__Text_Generation.ipynb
 
 |-- .gitignore
 |-- LICENSE
